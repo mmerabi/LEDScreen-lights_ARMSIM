@@ -1,6 +1,3 @@
-;Michael Merabi CS122
-;Project #3
-
 .equ SEG_A,0x80
 .equ SEG_B,0x40
 .equ SEG_C,0x20
